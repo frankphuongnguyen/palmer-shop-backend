@@ -2,7 +2,7 @@
 name = "palmer-shop-backend"
 version = "0.1.0"
 description = ""
-authors = ["phuong.nguyen.huu@vieon.vn <phuong.nguyen.huu@vieon.vn>"]
+authors = ["Nguyen Huu Phuong <frank.phuongnguyen@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
